@@ -1,6 +1,7 @@
 # PSO Hyperparameter Optimization Study
 
 **Bachelor's Thesis** — Álvaro Pleguezuelos Escobar
+This thesis was graded with a 9. Bear in mind that the purpose of this study was not training a good prediction model, but analysing how the PSO behaves under a reasonable big set of both discrete and continuous dimensions of a hyper-parameter space. The chosen model was the Random Forest.
 
 ## Resumen / Abstract
 
