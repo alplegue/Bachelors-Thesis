@@ -105,16 +105,17 @@ With adaptive inertia, every swarm reaches ~0.88 accuracy within a few iteration
 
 <br>
 
-| Config                        | Fitness evolution | Cumulative runtime |
-| ----------------------------- | :---------------: | :----------------: |
-| `w9_nomut_nospeedlimit`     |                  |                    |
-| `w9_nomut_speedlimit`       |                  |                    |
-| `w9_mut_nospeedlimit`       |                  |                    |
-| `w9_mut_speedlimit`         |                  |                    |
-| `w_evol_nomut_nospeedlimit` |                  |                    |
-| `w_evol_nomut_speedlimit`   |                  |                    |
-| `w_evol_mut_nospeedlimit`   |                  |                    |
-| `w_evol_mut_speedlimit`     |                  |                    |
+<table>
+  <tr><th>Config</th><th>Fitness evolution</th><th>Cumulative runtime</th></tr>
+  <tr><td><code>w9_nomut_nospeedlimit</code></td><td><img src="results/w9_nomut_nospeedlimit/fitplot5.png" width="400"></td><td><img src="results/w9_nomut_nospeedlimit/timeplot5.png" width="400"></td></tr>
+  <tr><td><code>w9_nomut_speedlimit</code></td><td><img src="results/w9_nomut_speedlimit/fitplot6.png" width="400"></td><td><img src="results/w9_nomut_speedlimit/timeplot6.png" width="400"></td></tr>
+  <tr><td><code>w9_mut_nospeedlimit</code></td><td><img src="results/w9_mut_nospeedlimit/fitplot3.png" width="400"></td><td><img src="results/w9_mut_nospeedlimit/timeplot3.png" width="400"></td></tr>
+  <tr><td><code>w9_mut_speedlimit</code></td><td><img src="results/w9_mut_speedlimit/fitplot4.png" width="400"></td><td><img src="results/w9_mut_speedlimit/plottime4.png" width="400"></td></tr>
+  <tr><td><code>w_evol_nomut_nospeedlimit</code></td><td><img src="results/w_evol_nomut_nospeedlimit/fitplot1.png" width="400"></td><td><img src="results/w_evol_nomut_nospeedlimit/timeplot1.png" width="400"></td></tr>
+  <tr><td><code>w_evol_nomut_speedlimit</code></td><td><img src="results/w_evol_nomut_speedlimit/fitplot2.png" width="400"></td><td><img src="results/w_evol_nomut_speedlimit/timeplot2.png" width="400"></td></tr>
+  <tr><td><code>w_evol_mut_nospeedlimit</code></td><td><img src="results/w_evol_mut_nospeedlimit/fitplot8.png" width="400"></td><td><img src="results/w_evol_mut_nospeedlimit/timeplot8.png" width="400"></td></tr>
+  <tr><td><code>w_evol_mut_speedlimit</code></td><td><img src="results/w_evol_mut_speedlimit/fitplot7.png" width="400"></td><td><img src="results/w_evol_mut_speedlimit/timeplot7.png" width="400"></td></tr>
+</table>
 
 </details>
 
