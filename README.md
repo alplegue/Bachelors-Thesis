@@ -53,7 +53,7 @@ Dependencies: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`, `imbal
 1. Clone the repository and install dependencies:
 
    ```bash
-   git clone https://github.com/alplegue/TFG-Alvaro-Pleguezuelos.git
+   git clone https://github.com/alplegue/Bachelors-Thesis.git
    cd TFG-Alvaro-Pleguezuelos
    pip install -r requirements.txt
    ```
